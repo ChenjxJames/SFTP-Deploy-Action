@@ -1,5 +1,5 @@
 # action.yml
-name: 'SFTP Deploy'
+name: 'SFTP Deploy No SSH'
 description: 'Deploy file to your server use sftp & ssh private key'
 inputs:
   username:
